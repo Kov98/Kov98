@@ -4,13 +4,13 @@
 
 Developer focused on building high-performance web applications softwares and SaaS platforms. I combine modern frontend/backend engineering with a deep background in information security, reverse engineering, and low-level system analysis.
 
-Available for international freelance projects (Landing Pages, Web Development, and SaaS).
+Available for international freelance projects (Landing Pages, Web Development, Software Engineering and SaaS).
 
 ---
 
 ## About me
 
-| Role | Web Developer & Security Researcher |
+| Role | Web Developer & Security Researcher & Software Engineer |
 | :--- | :--- |
 | **Focus** | Web Development, SaaS & Cybersecurity Tools |
 | **Experience** | Building modern web apps, custom integrations & security software |

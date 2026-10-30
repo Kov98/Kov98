@@ -1,24 +1,24 @@
 # [Seu Nome Completo]
 
-**Web Developer & Security Researcher** · **Freelance SaaS Builder**
+**Web Developer & Security Researcher** · **SaaS & High-Performance Web Apps**
 
-Desenvolvedor focado na criação de aplicações web de alta performance e SaaS. Unindo o desenvolvimento frontend moderno com um profundo conhecimento em segurança da informação, engenharia reversa e análise de sistemas de baixo nível.
+Developer focused on building high-performance web applications and SaaS platforms. I combine modern frontend engineering with a deep background in information security, reverse engineering, and low-level system analysis.
 
-Disponível para projetos internacionais (Landing Pages, Desenvolvimento Web e SaaS).
+Available for international freelance projects (Landing Pages, Web Development, and SaaS).
 
 ---
 
-## Sobre mim
+## About me
 
-| Atuação | Web Developer & Security Researcher |
+| Role | Web Developer & Security Researcher |
 | :--- | :--- |
-| **Formação** | Ensino Médio (Cursando) · Autodidata em Tecnologia |
-| **Experiência** | Desenvolvimento de Sites, SaaS e Ferramentas de Segurança |
-| **Especialização** | Cybersecurity, Anti-Cheat e Engenharia Reversa |
+| **Focus** | Web Development, SaaS & Cybersecurity Tools |
+| **Experience** | Building modern web apps, custom integrations & security software |
+| **Expertise** | Cybersecurity, Anti-Cheat & Reverse Engineering |
 
 ---
 
-## Stack principal
+## Main Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -32,18 +32,18 @@ Disponível para projetos internacionais (Landing Pages, Desenvolvimento Web e S
 
 ---
 
-## O que você vai encontrar aqui
+## What you'll find here
 
-*   **Projetos Web & SaaS:** Aplicações construídas com foco em performance, animações fluidas (Framer Motion) e alta conversão.
-*   **Segurança & Forense:** Ferramentas de análise de sistema, anti-cheat e engenharia reversa desenvolvidas em C#, C++ e Python.
-*   **Integrações & Backend:** APIs customizadas, automações e integrações de banco de dados (PostgreSQL / Supabase).
-*   **Projetos Pessoais:** Experimentos técnicos focados em baixo nível, otimização e boas práticas de código.
+*   **Web & SaaS Projects:** Applications built with a focus on performance, fluid animations (Framer Motion), and high conversion rates.
+*   **Security & Forensics:** System analysis, anti-cheat, and reverse engineering tools developed in C#, C++, and Python.
+*   **Integrations & Backend:** Custom APIs, automation, and database integrations (PostgreSQL / Supabase).
+*   **Personal Projects:** Technical experiments focused on low-level architecture, optimization, and code best practices.
 
 ---
 
-## Vamos conversar?
+## Let's talk
 
-Aberto a colaborações, propostas de freelance e novos projetos internacionais.
+Open to collaborations, freelance proposals, and new international projects.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)

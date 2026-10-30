@@ -13,7 +13,7 @@ Available for international freelance projects (Landing Pages, Web Development, 
 | Role | Web Developer & Security Researcher & Software Engineer |
 | :--- | :--- |
 | **Focus** | Web Development, SaaS & Cybersecurity Tools |
-| **Experience** | Building modern web apps, custom integrations & security software 1+ Year Experience |
+| **Experience** | 1+ Year Experience |
 | **Expertise** | Cybersecurity, Frontend/Backend & Reverse Engineering |
 
 ---

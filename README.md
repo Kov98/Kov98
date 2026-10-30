@@ -1,108 +1,41 @@
-<div align="center">
-  <h1>Hi, I'm Pedro(Kov98).</h1>
-  <h3>Web Developer & Security Researcher</h3>
-  <p>I build fast, secure, and custom-coded web experiences and SaaS platforms.</p>
-</div>
+Here I share my personal and pet projects focused on:
 
----
+* Web Development (Landing Pages & SaaS)
+* Frontend engineering (Next.js, React, Tailwind)
+* Cybersecurity and Reverse Engineering
+* Anti-Cheat and System Forensics (C# / C++)
 
-### 👨‍💻 About Me
-I am a developer specialized in building high-performance web applications and modern landing pages. What sets me apart from a standard web developer is my deep background in cybersecurity, reverse engineering, and systems analysis. 
+🎯 Career Goal: To build high-performance, secure web applications and SaaS for international clients as a freelancer.
 
-Instead of just making things look good, I engineer them to be resilient. I combine modern frontend frameworks with a security-first mindset, ensuring that the websites and SaaS I build for clients are not only visually stunning but also optimized, safe, and hard to break.
+### 💻 Tech Stack:
 
-- 💼 **Status:** Available for freelance projects (Web Dev, Landing Pages, SaaS).
-- 🎯 **Focus:** Delivering high-converting websites with top-tier performance.
-- 🔒 **My Edge:** Security-first engineering and low-level system knowledge.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
 
----
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
 
-### 🛠️ Tech Stack
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-**💻 Web Development & Frontend (Freelance Focus)**
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,framer,html,css" alt="Web Stack" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-**⚙️ Backend, Database & Automation**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,postgres,supabase,fastapi" alt="Backend Stack" />
-</p>
-
-**🛡️ Cybersecurity, Anti-Cheat & Desktop Apps**
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,linux,bash,docker,windows" alt="Security Stack" />
-</p>
-
-**🧰 Tools & Workflow**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vercel,postman" alt="Tools" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-#### 🛡️ [Nome do seu Anti-Cheat] (C# / .NET)
-> *Real-time detection system designed for Windows environments.*
-- Built using **C#** and memory analysis techniques to prevent memory tampering and DLL injection.
-- Achieves high performance with minimal footprint on the host system.
-- **Repository:** [Link para o repositório ou página do projeto]
-
-#### 🕵️ [Nome do seu Software Forense] (C# / Python)
-> *Forensic tool for extracting and analyzing system artifacts.*
-- Desktop application built with **C#** paired with **Python** scripts for automated reporting.
-- Focused on deep system analysis, data recovery, and secure logging.
-- **Repository:** [Link para o repositório ou página do projeto]
-
-#### 🌐 [Nome de um Site que você fez] (Next.js / Tailwind)
-> *High-performance landing page for [Nicho do Cliente].*
-- Achieved a 98/100 PageSpeed score.
-- Implemented custom animations using **Framer Motion** for an immersive user experience.
-- Integrated custom APIs for lead generation and CRM sync.
-- **Live URL:** [Link para o site ao vivo]
-
-#### ⚙️ [Nome do seu projeto de Engenharia Reversa] (C++ / Assembly)
-> *Ongoing research and development.*
-- Exploring low-level system architecture and binary analysis.
-- **Repository:** [Link para o repositório, se público]
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SeuUsuarioGitHub]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SeuUsuarioGitHub]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-### 📫 Let's Work Together
-I am currently open for freelance opportunities. Whether you need a high-converting landing page, a custom SaaS build, or a complex integration, let's talk.
-
-<div align="center">
-  <a href="[Link do seu Portfólio]">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="[Link do seu LinkedIn]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[Seu Email]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>## Hi there 👋
-
-<!--
-**Kov98/Kov98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats:
+[Substitua por isso, trocando o "SEU_USUARIO":]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true)

@@ -1,8 +1,8 @@
 # [Seu Nome Completo]
 
-**Web Developer & Security Researcher** · **SaaS & High-Performance Web Apps**
+**Web Developer & Security Researcher & Software Engineer** · **SaaS & High-Performance Web Apps**
 
-Developer focused on building high-performance web applications and SaaS platforms. I combine modern frontend engineering with a deep background in information security, reverse engineering, and low-level system analysis.
+Developer focused on building high-performance web applications softwares and SaaS platforms. I combine modern frontend engineering with a deep background in information security, reverse engineering, and low-level system analysis.
 
 Available for international freelance projects (Landing Pages, Web Development, and SaaS).
 
